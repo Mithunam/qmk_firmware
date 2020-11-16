@@ -6,7 +6,7 @@ a basic 2x2 macropad
 
 * Keyboard Maintainer: [Mithunam](https://github.com/yourusername)
 * Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Availability: https://arkstudioid.wixsite.com/arkeys-store
 
 Make example for this keyboard (after setting up your build environment):
 
